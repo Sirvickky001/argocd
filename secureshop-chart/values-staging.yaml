@@ -1,7 +1,0 @@
-replicaCount: 2
-image:
-  tag: latest
-resources:
-  limits:
-    cpu: "500m"
-    memory: "256Mi"
